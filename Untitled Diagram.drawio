@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:50:48.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="8WTdKbo8YlYsK55FiVLg" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T10:11:33.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9fI6Lsbg3XU5HkNloYhb" version="13.7.7" type="github">
   <diagram id="7G5bMyklPg214r5d4M1_" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIz92cHDHYsAEAl19uF_-1" value="Root (App) Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YIz92cHDHYsAEAl19uF_-1" value="Root (App) Module" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YIz92cHDHYsAEAl19uF_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.457;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YIz92cHDHYsAEAl19uF_-4" target="YIz92cHDHYsAEAl19uF_-8">
@@ -63,8 +63,8 @@
         <mxCell id="YIz92cHDHYsAEAl19uF_-23" value="Details about implementations:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YIz92cHDHYsAEAl19uF_-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;- Router preload strategy&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="520" width="170" height="30" as="geometry" />
+        <mxCell id="YIz92cHDHYsAEAl19uF_-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;- Router preload strategy&lt;br&gt;- For every component add changeDetectionStrategy -&amp;gt; onPush for every component&amp;nbsp;&lt;br&gt;https://www.digitalocean.com/community/tutorials/angular-change-detection-strategy&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;Estimation: 30minutes for every component&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="20" y="520" width="550" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

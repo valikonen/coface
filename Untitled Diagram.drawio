@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T09:14:41.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EWK0wI9sVabU3UZoOBtJ" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T09:17:04.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="8Rcss71ZtXZnnCGLxnzJ" version="13.7.7" type="github">
   <diagram id="7G5bMyklPg214r5d4M1_" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,8 +38,8 @@
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIz92cHDHYsAEAl19uF_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="YIz92cHDHYsAEAl19uF_-8" value="&lt;b&gt;Components:&lt;/b&gt;&lt;br&gt;-Business Reports&lt;br&gt;- Scores&lt;br&gt;- Credit Opinion&lt;br&gt;- Monitoring&lt;br&gt;- Business Finder&lt;br&gt;- Cross Border Network" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="140" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
